@@ -1,0 +1,9 @@
+{
+  "name" : "cp4admin/Client-Onboarding/OPS1656537125586",
+  "type" : "OPS",
+  "description" : "Scoring algorithm for new client onboarding workflow.",
+  "mlUrl" : "http://ads-ml-service-service-ads-ml-service.cp4ba-demo-cfdc5fca1a6760720e3aff224366d022-0000.us-south.containers.appdomain.cloud/",
+  "authUrl" : "",
+  "instanceId" : "",
+  "apiKey" : null
+}
